@@ -1,0 +1,6 @@
+altair>=5.0
+pandas>=2.0
+numpy>=1.26
+streamlit>=1.64,<2
+scikit-learn>=1.7,<2
+xgboost>=3.0,<4

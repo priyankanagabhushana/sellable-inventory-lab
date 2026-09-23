@@ -1,0 +1,4 @@
+segment_id,label,parent_id,share_of_parent
+all_adults,All adults 15+,,1.0
+w_25_49,Women 25–49,all_adults,0.28
+m_25_49,Men 25–49,all_adults,0.26
